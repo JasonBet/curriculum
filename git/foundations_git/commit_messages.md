@@ -105,6 +105,7 @@ The following questions are an opportunity to reflect on key topics in this less
 
 - [What are two benefits of having well-written commit messages and a good commit history?](https://cbea.ms/git-commit/#intro)
 - [How many characters should the subject line of your commit message be?](https://cbea.ms/git-commit/#limit-50)
+- [How often should you be making commits?](#when-to-commit)
 
 ### Additional resources
 
